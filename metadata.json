@@ -1,0 +1,8 @@
+{
+  "name": "Lumière Atelier - Service Appointment Booking",
+  "description": "Premium service appointment booking platform featuring real-time availability calendar, staff scheduling, secure checkout with card/digital wallet verification, and instant email confirmation with calendar sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
